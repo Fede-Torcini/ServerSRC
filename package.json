@@ -71,6 +71,7 @@
     "toidentifier": "^1.0.1",
     "type-is": "^1.6.18",
     "unpipe": "^1.0.0",
+    "util": "^0.12.5",
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2",
     "web-streams-polyfill": "^3.3.3"
